@@ -2,7 +2,7 @@ export const quinceMainData = {
   hero: {
     name: "Luz",
     subtitle: "¡Mis XV años!",
-    backgroundImage: "/images/luz01.jpg",
+    backgroundImage: "/images/luz02.jpg",
     quote:
       "La vida es un viaje mágico, y hoy celebro un capítulo especial lleno de sueños y esperanza.",
     backgroundCarrouselImages: [
