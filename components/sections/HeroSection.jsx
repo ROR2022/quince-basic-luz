@@ -53,7 +53,7 @@ export default function HeroSection() {
       //id="home"
       className="min-h-screen flex flex-col justify-center items-center relative pt-20"
     >
-       <BackgroundCarrousel images={backgroundCarrouselImages}/> 
+       {/* <BackgroundCarrousel images={backgroundCarrouselImages}/>  */}
 
       {/* Contenido principal - Usar solo animación CSS, no scroll-based */}
       <div
@@ -62,7 +62,7 @@ export default function HeroSection() {
             //backgroundColor:'#C8BFE780'
           }
         }
-        className="bg-slate-400 bg-opacity-50 p-6 rounded-2xl relative z-10 text-center space-y-6 px-4"
+        className=" p-6 rounded-2xl relative z-10 text-center space-y-6 px-4"
       >
         <h1
           style={{

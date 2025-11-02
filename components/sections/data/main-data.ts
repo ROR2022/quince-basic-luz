@@ -6,7 +6,6 @@ export const quinceMainData = {
     quote:
       "La vida es un viaje mágico, y hoy celebro un capítulo especial lleno de sueños y esperanza.",
     backgroundCarrouselImages: [
-      "/images/luz01.jpg",
       "/images/luz02.jpg",
       "/images/luz03.jpg",
       "/images/luz04.jpg",
@@ -29,7 +28,7 @@ export const quinceMainData = {
                 por cuidarme y guiarme en este camino.
                 Hace quince años mis padres agradecieron a Dios por mi vida. 
                 Hoy, yo agradezco a Dios por ellos, por su infinito amor y paciencia.`,
-      backgroundImage: "/images/fondoDiana5.png",
+      backgroundImage: "",
     },
     //Padrino Ma. Asunción Ramirez y Juan Gutiérrez
      
@@ -225,12 +224,6 @@ export const quinceMainData = {
     description:
       "Cada imagen captura la esencia de este día tan especial. ¡Gracias por ser parte de estos recuerdos inolvidables!",
     images: [
-      {
-        id: "image1",
-        src: "/images/luz01.jpg",
-        alt: "Luz en sus XV años",
-        caption: "Luz radiante en su día especial.",
-      },
       {
         id: "image2",
         src: "/images/luz02.jpg",

@@ -32,22 +32,22 @@ export default function WeddingInvitation() {
       setIsMounted(true);
     }
   }, []);
-  const [isOpenInvitation, setIsOpenInvitation] = useState(false);
+  //const [isOpenInvitation, setIsOpenInvitation] = useState(false);
   //const [isWelcomeMessageVisible, setIsWelcomeMessageVisible] = useState(false);
 
-  const handleOpenInvitation = () => {
+  /* const handleOpenInvitation = () => {
     setIsOpenInvitation(true);
     //setIsWelcomeMessageVisible(true);
-  };
+  }; */
 
   /* const handleContinue = () => {
     setIsWelcomeMessageVisible(false);
   }; */
 
-  if (!isOpenInvitation) {
+  /* if (!isOpenInvitation) {
     return <InvitationEnvelope onOpen={handleOpenInvitation} />;
   }
-
+ */
   /* if (isWelcomeMessageVisible) {
     return <WelcomeMessage onContinue={handleContinue} />;
   } */

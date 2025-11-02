@@ -131,6 +131,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Great+Vibes&family=Tangerine:wght@400;700&display=swap');
 
 
+.divider {
+  @apply flex items-center justify-center my-8;
+}
+
+.divider::before,
+.divider::after {
+  content: "";
+  @apply h-px bg-gray-300 flex-grow mx-4;
+}
+
+.divider-icon {
+  @apply text-primary flex items-center justify-center;
+}
+
+.divider-icon svg {
+  @apply w-8 h-8;
+}
+
+.section-title {
+  @apply text-primary text-3xl md:text-4xl font-medium text-center mb-6;
+}
+
+.section-subtitle {
+  @apply text-foreground text-xl text-center mb-8;
+}
+
+
+
 /* Added custom CSS classes for wedding styling */
 .font-main-title {
   font-family: "Great Vibes", cursive;
