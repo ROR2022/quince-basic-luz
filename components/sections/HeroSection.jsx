@@ -17,9 +17,9 @@ export default function HeroSection() {
   const [scrollPosition, setScrollPosition] = useState(window.scrollY);
   const [isVisible, setIsVisible] = useState(false);
 
-  const basicClass = "font-script text-4xl text-red-500 mb-4 italic";
+  const basicClass = "font-script text-4xl text-white mb-4 italic";
   const completeClass =
-    "font-script text-4xl text-red-500 mb-4 scale-up-center italic";
+    "font-script text-4xl text-white mb-4 scale-up-center italic";
 
   useEffect(() => {
     const handleScroll = () => {
@@ -53,7 +53,7 @@ export default function HeroSection() {
       //id="home"
       className="min-h-screen flex flex-col justify-center items-center relative pt-20"
     >
-      {/* <BackgroundCarrousel images={backgroundCarrouselImages}/> */}
+       <BackgroundCarrousel images={backgroundCarrouselImages}/> 
 
       {/* Contenido principal - Usar solo animación CSS, no scroll-based */}
       <div

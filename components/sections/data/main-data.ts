@@ -6,10 +6,12 @@ export const quinceMainData = {
     quote:
       "La vida es un viaje mágico, y hoy celebro un capítulo especial lleno de sueños y esperanza.",
     backgroundCarrouselImages: [
-      "/images/quince1.jpeg",
-      "/images/quince2.jpeg",
-      "/images/quince3.jpeg",
-      "/images/quince4.jpeg",
+      "/images/luz01.jpg",
+      "/images/luz02.jpg",
+      "/images/luz03.jpg",
+      "/images/luz04.jpg",
+      "/images/luz05.jpg",
+      "/images/luz06.jpg",
     ],
   },
   welcomeSection: {
@@ -225,51 +227,39 @@ export const quinceMainData = {
     images: [
       {
         id: "image1",
-        src: "/images/rapunzel1.jpeg",
-        alt: "Roxana Leonor en sus XV años",
-        caption: "Roxana Leonor radiante en su día especial.",
+        src: "/images/luz01.jpg",
+        alt: "Luz en sus XV años",
+        caption: "Luz radiante en su día especial.",
       },
       {
         id: "image2",
-        src: "/images/rapunzel2.jpeg",
+        src: "/images/luz02.jpg",
         alt: "Baile de Quinceañera",
-        caption: "El emotivo primer baile de Roxana Leonor.",
+        caption: "El emotivo primer baile de Luz.",
       },
       {
         id: "image3",
-        src: "/images/rapunzel3.jpeg",
+        src: "/images/luz03.jpg",
         alt: "Corte de Pastel",
         caption: "El dulce momento del corte de pastel.",
       },
       {
         id: "image4",
-        src: "/images/rapunzel4.jpeg",
+        src: "/images/luz04.jpg",
         alt: "Celebración con Familia y Amigos",
-        caption: "Roxana Leonor rodeada de sus seres queridos.",
+        caption: "Luz rodeada de sus seres queridos.",
       },
       {
         id: "image5",
-        src: "/images/rapunzel5.jpg",
+        src: "/images/luz05.jpg",
         alt: "Detalles del Evento",
         caption: "Cada detalle hecho con amor para este día especial.",
       },
       {
         id: "image6",
-        src: "/images/rapunzel6.jpg",
+        src: "/images/luz06.jpg",
         alt: "Diversión en la Pista de Baile",
         caption: "Momentos de alegría y baile con todos los invitados.",
-      },
-      {
-        id: "image7",
-        src: "/images/rapunzel7.jpg",
-        alt: "Sesión de Fotos",
-        caption: "Capturando recuerdos que durarán toda la vida.",
-      },
-      {
-        id: "image8",
-        src: "/images/rapunzel8.jpg",
-        alt: "Roxana Leonor y sus Padres",
-        caption: "Un momento especial con sus queridos padres.",
       },
     ],
     imagesUrls: [
@@ -285,7 +275,7 @@ export const quinceMainData = {
   },
   qrcodeSection:{
     title: "Escanea el Código QR",
-    celebrant: "Roxana Leonor",
+    celebrant: "Luz",
     message: "Para acceder fácilmente a la invitación en tu dispositivo móvil.",
     mainImage: "/images/qrcode-bg.jpg",
   },
