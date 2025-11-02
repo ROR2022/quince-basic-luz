@@ -30,18 +30,20 @@ export const quinceMainData = {
       backgroundImage: "/images/fondoDiana5.png",
     },
     //Padrino Ma. Asunción Ramirez y Juan Gutiérrez
+     
+
     godparents: {
-      godfather: "Juan Hernández",
-      godmother: "Ma. Asunción Jiménez",
+      godfather: "Adela Pérez Hernández",
+      godmother: "Yuyis Pérez Hernández",
     },
     date: {
-      full: "Sábado 27 de Diciembre 2025",
-      isoDate: "2025-12-27T13:00:00",
-      day: "Sábado",
-      dayNumber: "27",
+      full: "Domingo 28 de Diciembre 2025",
+      isoDate: "2025-12-28T18:00:00",
+      day: "Domingo",
+      dayNumber: "28",
       month: "Diciembre",
       year: "2025",
-      date: "27 de Diciembre 2025",
+      date: "28 de Diciembre 2025",
       mensaje1: "¡La cuenta regresiva ha comenzado!",
       mensaje2: "TAN SOLO FALTAN",
       backgroundCarrouselImages: [
@@ -63,11 +65,11 @@ export const quinceMainData = {
       ceremonyImage: "/images/quince6.jpeg",
     },
     party: {
-      time: "14:00 hrs.",
-      venue: "Salón Texano",
-      address: "Santa fe de Guadalupe, la Sauceda Guanajuato.",
+      time: "18:00 hrs.",
+      venue: "Salón de Eventos La Luna",
+      address: "Libertad 402, Manuel Ávila Camacho, Poza Rica de Hidalgo, Ver.",
       type: "Recepción",
-      ubiLink: "https://maps.app.goo.gl/qNFsbPPuwyCSMUim9",
+      ubiLink: "https://maps.app.goo.gl/hRHEWm1CeX4QL1TK9",
     },
     dressCode: "Formal - Rosa solo la quinceañera",
     restrictions: "",

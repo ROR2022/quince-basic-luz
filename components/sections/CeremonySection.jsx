@@ -122,7 +122,9 @@ export default function CeremonySection() {
             <div className="grid lg:grid-cols-3 gap-8 items-start">
               
               {/* Card de Ceremonia - Slide desde izquierda */}
-              <div className={getElegantAnimationClass(ceremonyCardVisible, 'card-slide-left', 'delay-400')}>
+              <div 
+              style={{display:'none'}}
+              className={getElegantAnimationClass(ceremonyCardVisible, 'card-slide-left', 'delay-400')}>
                 <div className="ceremony-card rounded-2xl p-8 text-center space-y-6 animate-theatrical-glow">
                   <div className="text-5xl text-yellow-400 font-main-text mb-4 elegant-text-glow">
                     Ceremonia
