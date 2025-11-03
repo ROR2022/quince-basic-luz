@@ -58,7 +58,7 @@ export const premiumDemoData = {
     },
     { 
       role: "Padrinos del Ramo", 
-      names: ["Erica Hernández", "Nayeli Dubai"],
+      names: ["Erika Hernández", "Willy Fuentes"],
       description: "Por las flores más hermosas"
     },
     { 
@@ -68,7 +68,7 @@ export const premiumDemoData = {
     },
     { 
       role: "Padrinos de las Flores", 
-      names: ["Domingo Pérez Hernández", "Maria García"],
+      names: ["Domingo Pérez", "Ady Rouse"],
       description: "Por decorar este día especial"
     }
   ],
