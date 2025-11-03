@@ -53,27 +53,22 @@ export const premiumDemoData = {
     },
     { 
       role: "Padrinos del Vestido", 
-      names: ["Roberto González Silva", "Ana Isabel Martínez López"],
+      names: ["Cudberto Pérez Hernández", "Consuelo Plata"],
       description: "Por hacer realidad mi vestido soñado"
     },
     { 
       role: "Padrinos del Ramo", 
-      names: ["Luis Alberto Hernández", "Carmen Rosa López Vega"],
+      names: ["Erica Hernández", "Nayeli Dubai"],
       description: "Por las flores más hermosas"
     },
     { 
       role: "Padrinos de la Música", 
-      names: ["Jorge Eduardo Ramírez", "Sofía Alejandra Torres"],
+      names: ["Patricia Victoria San Juan", "Sandra Luz García Pérez"],
       description: "Por llenar de melodía mi celebración"
     },
     { 
-      role: "Padrinos del Vals", 
-      names: ["Fernando José García", "Lucía Mercedes Herrera"],
-      description: "Por hacer mágico mi primer vals"
-    },
-    { 
       role: "Padrinos de las Flores", 
-      names: ["Miguel Ángel Ruiz", "Rosa María Jiménez"],
+      names: ["Domingo Pérez Hernández", "Maria García"],
       description: "Por decorar este día especial"
     }
   ],
