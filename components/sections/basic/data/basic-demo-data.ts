@@ -69,9 +69,9 @@ export const basicDemoData = {
       },
       {
         icon: "🎁",
-        title: "Mesa de Regalos",
-        description: "Liverpool",
-        details: "Evento: XV años Isabella\nCódigo: 51234567"
+        title: "Regalo Sorpresa",
+        description: "Un detalle especial",
+        details: "El regalo que tú elijas será bien recibido"
       },
       {
         icon: "💰",
