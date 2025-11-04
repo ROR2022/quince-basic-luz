@@ -64,8 +64,8 @@ export const basicDemoData = {
       {
         icon: "💳",
         title: "Transferencia Bancaria",
-        description: "BBVA Bancomer",
-        details: "Cuenta: 1234567890\nCLABE: 012345678901234567\nA nombre de: Patricia Hernández López"
+        description: "Spin by OXXO",
+        details: "Cuenta: 4217 4700 8239 6769\nCLABE: 8239728979000005907686\nA nombre de: Sandra Luz García Pérez"
       },
       {
         icon: "🎁",
